@@ -1,20 +1,23 @@
  
-## Hello, welcome to my Github profile
+### Hello, welcome to my Github profile
 
-### My name is Emanuel and I am a web development student.
+## My name is Emanuel and I am a web development student :technologist:
 
-### Portfolio: https://egrigolatto.github.io/TrabajoPractico1/
+
+My portfolio: 
+https://egrigolatto.github.io/TrabajoPractico1/
+
 
 
 ## Follow me on my networks
 
-<a href="https://twitter.com/emagrigo">
+<a href="https://twitter.com/emagrigo" target="_blank">
   <img align="left"  width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.facebook.com/emanuel.grigolatto/">
+<a href="https://www.facebook.com/emanuel.grigolatto/" target="_blank">
   <img align="left"  width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.instagram.com/ema.grigolatto/?hl=es-la">
+<a href="https://www.instagram.com/ema.grigolatto/?hl=es-la" target="_blank">
   <img align="left"  width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
