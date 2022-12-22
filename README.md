@@ -1,7 +1,7 @@
  
 ### Hello, welcome to my Github profile
 
-## My name is Emanuel and I am a web development student :technologist:
+## My name is Emanuel and I am a web developer :technologist:
 
 
    My portfolio: 
