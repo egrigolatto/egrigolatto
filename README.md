@@ -4,8 +4,6 @@
 ## My name is Emanuel and I am a web developer :technologist:
 
 
-   My portfolio: 
-   https://egrigolatto.github.io/TrabajoPractico1/
 
 
 
